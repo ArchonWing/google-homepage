@@ -1,0 +1,38 @@
+body{
+  background-color: #fff;
+}
+
+ul#header-icons{
+  float:right;
+}
+
+ul#header-icons li{
+  display: inline;
+
+}
+
+ul#header-icons a{
+  text-decoration: none;
+  font-family: arial, sans-serif;
+  font-size: 13px;
+  color: #000;
+  margin: 0px 4px;
+  vertical-align: middle;
+}
+
+div#content{
+  clear:both;
+  margin-top:300px;
+}
+
+#center{
+  margin:auto;
+}
+
+#logo{
+  height: "92";
+  width:auto;
+  display:block;
+  margin: auto;
+
+}
