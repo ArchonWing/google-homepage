@@ -22,7 +22,27 @@ ul#header-icons a{
   vertical-align: middle;
 }
 
+#serarch_div{
+  text-align: center;
+}
 
+#search_box{
+  height: 44px;
+  max-width: 584px;
+  margin: 0 auto;
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+}
+
+#text_search{
+  line-height: 34px;
+  height: 34px;
+  border:none;
+  width:100%;
+  padding:0px;
+  margin: 0px;
+  height: auto;
+
+}
 
 #center{
   text-align: center;
